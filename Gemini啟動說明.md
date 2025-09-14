@@ -77,3 +77,4 @@ pip install --upgrade gemini-cli # 如果是 Python 應用
 ---
 
 **請注意：** 上述指令是通用範例。請務必參考您所使用的 Gemini CLI 的官方文件，以獲取最準確和最新的啟動與使用說明。
+---
